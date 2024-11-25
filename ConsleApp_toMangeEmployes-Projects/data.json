@@ -1,0 +1,58 @@
+[
+    {
+        "first_name": "Ali",
+        "last_name": "Ayman",
+        "email": "ali.ayman575@gmail.com",
+        "password": "ali211171",
+        "phone": "01276862221"
+    },
+    {
+        "first_name": "Ahmed",
+        "last_name": "Khaled",
+        "email": "Ahmed@gmail.com",
+        "password": "123456789",
+        "phone": "01274462221"
+    },
+    {
+        "first_name": "amr",
+        "last_name": "tamer",
+        "email": "amr@gmail.com",
+        "password": "arm5614",
+        "phone": "01276862885"
+    },
+    {
+        "first_name": "nada",
+        "last_name": "Aymwaan",
+        "email": "nada@gmail.com",
+        "password": "nada211171",
+        "phone": "0122862221"
+    },
+    {
+        "first_name": "aa",
+        "last_name": "aa",
+        "email": "aa@gmail.com",
+        "password": "aaaaaaa",
+        "phone": "01099084319"
+    },
+    {
+        "first_name": "amr",
+        "last_name": "khale",
+        "email": "all@google.com",
+        "password": "5555555",
+        "phone": "01279762221"
+    },
+    {
+        "first_name": "ali",
+        "last_name": "ayy",
+        "email": "ali.ay@gmail.cim",
+        "password": "8888888",
+        "phone": "01277777777"
+    },
+    {
+        "first_name": "memo",
+        "last_name": "memo",
+        "email": "memo@gmail.com",
+        "password": "123456789",
+        "phone": "01265982221"
+    }
+]
